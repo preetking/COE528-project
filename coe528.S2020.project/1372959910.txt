@@ -1,0 +1,8 @@
+Ticket Number: 1372959910
+Customer Number: 1
+Parking Spot Type: Large
+Vehicle Type: Large
+Time Spent In Lot: 6
+Total Cost: 18.5
+Paid?: false
+Is Spot Used?: true

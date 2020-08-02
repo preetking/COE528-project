@@ -1,0 +1,8 @@
+Ticket Number: 1940662037
+Customer Number: 1
+Parking Spot Type: Compact
+Vehicle Type: Compact
+Time Spent In Lot: 6
+Total Cost: 18.5
+Paid?: false
+Is Spot Used?: true
